@@ -23,7 +23,7 @@ This project is a the front and back end code for a social media api. I have uti
 * It is important to run the 'createdb.php' file initially to initialize the login database and user table. This is done by navigating to 
 "localhost/'your-folder-name'/php/createdb.php". Note that this only has to be done once unless your intention is to empty the whole database.
 * The user experience begins in '/html/index.html', a link is provided after succesfully running createdb.php.
-* Important note: You will need to make a change in createdb.php and database.php where I have set the port to 4306 to ensure the proper database port is utilized. Default is 3306.
+* Important note: You will need to make a change in createdb.php and database.php where I have set the port to 4306 to ensure the proper database port is utilized. Excluding the port number will connect to the default of 3306.
 
 
 ### Usage
