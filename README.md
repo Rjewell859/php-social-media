@@ -1,8 +1,4 @@
 # Advantage Social
-
-## CIS224 Final Project
-- Student Name: Ryan Jewell
-- Date: 5/3/23
     
 ### Table of Content
 [Description](#description)
